@@ -49,4 +49,4 @@ The models were evaluated using Mean Squared Error (MSE), Root Mean Squared Erro
 * **Group's members**: Nguyen Pham Quynh Trang (Leader), Pham Hieu Ngan, Nguyen Thi Hong Nhung.
 * **Course:** Machine Learning - VNU International School.
   
-Copyright@Group3MachineLearningVNUIS2026(Trang, Ngan, Nhung)
+Copyright@Group3MachineLearningVNUIS2026(Trang, Ngan, Nhung)All Rights Reserved.
