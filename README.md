@@ -46,5 +46,5 @@ The models were evaluated using Mean Squared Error (MSE), Root Mean Squared Erro
 
 ## Project Authors
 
-* **Group's members**:*Nguyen Pham Quynh Trang (Leader), Pham Hieu Ngan, Nguyen Thi Hong Nhung.
+* **Group's members**: Nguyen Pham Quynh Trang (Leader), Pham Hieu Ngan, Nguyen Thi Hong Nhung.
 * **Course:** Machine Learning - VNU International School.
